@@ -8,6 +8,24 @@
     <packaging>war</packaging>
 
     <name>Forever</name>
+    <developers>
+        <developer>
+            <name>Matheus Cardozo</name>
+            <email>matheuscard8@gmail.com</email>
+            <roles>
+                <role>developer</role>
+                <role>arquitect</role>
+            </roles>
+        </developer>
+        <developer>
+            <name>Jeremias Neres</name>
+            <email>jeremiasneres23@gmail.com</email>
+            <roles>
+                <role>developer</role>
+                <role>arquitect</role>
+            </roles>
+        </developer>
+    </developers>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
